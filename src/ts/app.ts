@@ -1,4 +1,4 @@
-import Cart from './service/Cart.ts';
+import Cart from './service/Cart';
 import Book from './domain/Book';
 
 const cart = new Cart();

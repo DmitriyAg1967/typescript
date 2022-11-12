@@ -31,8 +31,11 @@
     "eslint": "^8.27.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "http": "^0.0.1-security",
     "jest": "^29.3.1",
     "mini-css-extract-plugin": "^2.6.1",
+    "server": "^1.0.37",
     "ts-jest": "^29.0.3",
     "ts-loader": "^9.4.1",
     "typescript": "^4.8.4",
@@ -42,7 +45,6 @@
   },
   "dependencies": {
     "core-js": "^3.26.0",
-    "html-webpack-plugin": "^5.5.0",
     "save-dev": "^0.0.1-security"
   }
 }

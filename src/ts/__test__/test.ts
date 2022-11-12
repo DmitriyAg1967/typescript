@@ -1,4 +1,4 @@
-import Cart from '../servce/Cart';
+import Cart from '../service/Cart';
 import Movie from '../domain/Movie';
 import Book from '../domain/Book';
 
