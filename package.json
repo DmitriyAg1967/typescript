@@ -7,9 +7,8 @@
     "start": "webpack-dev-server --mode development",
     "test": "jest",
     "lint": "eslint .",
-    "build": "tsc",
-    "coverage": "jest --coverage",
-    "watch": "tsc -w"
+    "build": "webpack --mode production",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
